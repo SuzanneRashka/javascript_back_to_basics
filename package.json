@@ -1,0 +1,34 @@
+{
+  "name": "javascript_back_to_basics",
+  "version": "1.0.0",
+  "description": "Javascript essentials for a refresher",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuzanneRashka/javascript_back_to_basics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuzanneRashka/javascript_back_to_basics/issues"
+  },
+  "homepage": "https://github.com/SuzanneRashka/javascript_back_to_basics#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-changed": "^3.2.0",
+    "gulp-clean-css": "^3.9.2",
+    "gulp-rename": "^1.2.2"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp-livereload": "^3.8.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-useref": "^3.1.4"
+  }
+}
